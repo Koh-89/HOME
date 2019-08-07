@@ -1,0 +1,159 @@
+<@charset"UTF-8";>
+
+body {
+  font-family: "HiraginoSans-W3","游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+  margin: 0;
+}
+
+.main {
+  width: 100%;
+  height: 1000px;
+}
+
+.topper {
+  border-bottom: 4px solid #979797;
+  width: 100%;
+}
+
+.Koh_logo1 {
+  width: 400px;
+  height: auto;
+}
+
+.insta {
+  width: 72px;
+  height: 74px;
+}
+
+.line {
+  width: 65px;
+  height: 65px;
+}
+
+.facebook {
+  width: 77px;
+  height: 50%;
+}
+
+.SNS {
+  float: right;
+  padding: 0px 30px 0px 30px;
+  margin-right: 60px;
+}
+
+.sns {
+  padding: 0px 50px;
+}
+
+.menu_con1:hover {
+  opacity: 0.7;
+}
+
+.menu_con2:hover {
+  opacity: 0.7;
+}
+
+.menu_con1 {
+  font-size: 25px;
+  color: #000000;
+  padding: 0px 40px;
+  text-decoration: none;
+}
+
+.menu_con2 {
+  font-size: 18px;
+  color: #000000;
+  padding: 0px 20px;
+  text-decoration: none;
+  float: right;
+}
+
+.menu {
+  text-align: center;
+  margin-bottom: 30px
+}
+
+
+.LEPRO {
+  float: right;
+  margin: 20px 30px;
+}
+
+.footer {
+  background-color: #FFEA9D;
+  width: 100%;
+  height: 200px;
+
+}
+
+.Koh_logo2 {
+  margin: 20px 30px;
+}
+
+.こうしろうpic {
+  margin-top: 50px;
+  text-align:center;
+}
+
+.スポーツ{
+  background-color: #FFE06F;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.慢性的な痛み{
+  background-color: #81E1CB;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.美容{
+  background-color: #F3A5A5;
+  margin-right: 200px;
+  margin-top: 50px;
+}
+
+.疲労回復{
+  background-color: #B4EB7A;
+  margin-right: 200px;
+  margin-top: 50px;
+}
+
+
+.btn{
+  width: 341px;
+  height: 146px;
+  border-radius: 55px;
+  text-align: center;
+  color: #605757;
+}
+
+.btn :hover{
+  opacity: 0.7;
+}
+
+.btn :active{
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+
+h1 {
+  padding-top: 15px;
+  font-family: HiraginoSans-W3;
+  font-size: 40px;
+}
+
+a {
+text-decoration: none;
+}
+
+
+.左側 {
+  float: left;
+}
+
+.右側 {
+  float: right;
+}
