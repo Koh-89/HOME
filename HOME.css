@@ -5,6 +5,34 @@ body {
   margin: 0;
 }
 
+@media (max-width: 1000px) {
+
+  .SNS {
+    width: 350px;
+  }
+
+  .sns {
+    padding: 0px 20px!important;
+  }
+
+  .スポーツ{
+    margin-left: 100px!important;
+  }
+
+  .慢性的な痛み{
+    margin-left: 100px!important;
+  }
+
+  .美容{
+    margin-right: 100px!important;
+  }
+
+  .疲労回復{
+    margin-right: 100px!important;
+  }
+
+}
+
 .main {
   width: 100%;
   height: 1000px;
